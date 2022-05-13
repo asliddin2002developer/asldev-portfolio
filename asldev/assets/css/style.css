@@ -455,10 +455,9 @@ a:hover {
   max-height: 40px;
 }
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(1, 12, 20, 0.5);
   padding: 12px 0;
 }
-
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
